@@ -1,7 +1,7 @@
 <div align="center">
   
 <p align="center">
-  <img src="[https://github.com/UpperEchelon-VengeanceUtilities](https://github.com/VengeanceUtilities).png" alt="Vengeance Player Logo" width="120" style="border-radius: 50%;">
+  <img src="https://github.com/VengeanceUtilities.png" alt="Vengeance Player Logo" width="120" style="border-radius: 50%;">
 </p>
 ⚡ Vengeance Player
 
