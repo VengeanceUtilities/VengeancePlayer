@@ -71,4 +71,4 @@ Vengeance Player builds upon the incredible work of the open-source community:
 Distributed under the **GNU General Public License v3.0** (GPL-3.0). See [LICENSE](LICENSE) for more details.
 
 
-5.Note this is still a BETA so if you have any issues with it dm me on Discord iVrx
+Note this is still a BETA so if you have any issues with it dm me on Discord iVrx
