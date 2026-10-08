@@ -7,8 +7,8 @@
 
 **The Ultimate All-in-One Hybrid Music Experience for Android**
 
-[![Version](https://img.shields.io/badge/VERSION-1.6_NIGHTLY-red?style=for-the-badge)](https://github.com/UpperEchelon-VengeanceUtilities/VengeancePlayer/releases/latest)
-[![Platform](https://img.shields.io/badge/PLATFORM-ANDROID-brightgreen?style=for-the-badge&logo=android)](https://github.com/UpperEchelon-VengeanceUtilities/VengeancePlayer/releases)
+[![Version](https://img.shields.io/badge/VERSION-1.9_BETA-purple?style=for-the-badge)](https://github.com/VengeanceUtilities/VengeancePlayer/releases/latest)
+[![Platform](https://img.shields.io/badge/PLATFORM-ANDROID-brightgreen?style=for-the-badge&logo=android)](https://github.com/VengeanceUtilities/VengeancePlayer/releases)
 [![Website](https://img.shields.io/badge/WEBSITE-vengeanceutilities.de-blue?style=for-the-badge)](https://vengeanceutilities.de)
 [![Instagram](https://img.shields.io/badge/INSTAGRAM-@GODLYECHELON-E4405F?style=for-the-badge&logo=instagram)](https://instagram.com/godlyechelon)
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-yellow.svg?style=for-the-badge)](https://www.gnu.org/licenses/gpl-3.0)
@@ -42,11 +42,11 @@
 
 ## 📥 Installation
 
-1. Go to the [Releases](https://github.com/UpperEchelon-VengeanceUtilities/VengeancePlayer/releases/latest) section.
-2. Download the latest `Vengeance_Player_Nightly.apk`.
+1. Go to the [Releases](https://github.com/VengeanceUtilities/VengeancePlayer/releases/latest) section.
+2. Download the latest `Vengeance_Player_Beta.apk`.
 3. If prompted by Android, allow installation from unknown sources.
 4. Open the APK and install.
-
+5.Note this is still a BETA so if you have any issues with it dm me on Discord iVrx
 ---
 
 ## 🛠️ Tech Stack & Architecture
