@@ -61,8 +61,8 @@
 ## 📜 Credits & Acknowledgments
 
 Vengeance Player builds upon the incredible work of the open-source community:
-- **InnerTune** by [z-huang](https://github.com/z-huang/InnerTune)
-- **ArchiveTune** by [rukamori](https://github.com/rukamori/ArchiveTune)
+- **InnerTune** by [z-huang]
+- **ArchiveTune** by [rukamori]
 
 ---
 
