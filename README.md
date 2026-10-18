@@ -32,17 +32,36 @@
 
 ## 📸 Screenshots
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/8a77aa8e-00a1-4c54-8741-e87f230f7d55" width="220" alt="Vengeance Player Screen 1" />
-  <img src="https://github.com/user-attachments/assets/fc5cc147-5e3e-4fd0-bfed-466740ee476e" width="220" alt="Vengeance Player Screen 2" />
-  <img src="https://github.com/user-attachments/assets/20f79629-86f3-45e8-b77a-162159eb2911" width="220" alt="Vengeance Player Screen 3" />
-  <img src="https://github.com/user-attachments/assets/ca791b16-dd41-45b0-9b23-82eb407a0d37" width="220" alt="Vengeance Player Screen 4" />
-</p>
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/3e5ecde6-b994-4c28-8059-f103a814f18f" width="220" alt="Vengeance Player Screen 5" />
-  <img src="https://github.com/user-attachments/assets/81f6850a-1beb-4f38-a18f-73fe0b25a3c4" width="220" alt="Vengeance Player Screen 6" />
-  <img src="https://github.com/user-attachments/assets/78df1742-0de3-4716-9f5c-00dded074243" width="220" alt="Vengeance Player Screen 7" />
-</p>
+<table>
+  <tr>
+    <td align="center" width="25%">
+      <img src="https://github.com/user-attachments/assets/8a77aa8e-00a1-4c54-8741-e87f230f7d55" width="100%" alt="Screen 1" />
+    </td>
+    <td align="center" width="25%">
+      <img src="https://github.com/user-attachments/assets/fc5cc147-5e3e-4fd0-bfed-466740ee476e" width="100%" alt="Screen 2" />
+    </td>
+    <td align="center" width="25%">
+      <img src="https://github.com/user-attachments/assets/20f79629-86f3-45e8-b77a-162159eb2911" width="100%" alt="Screen 3" />
+    </td>
+    <td align="center" width="25%">
+      <img src="https://github.com/user-attachments/assets/ca791b16-dd41-45b0-9b23-82eb407a0d37" width="100%" alt="Screen 4" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="25%">
+      <img src="https://github.com/user-attachments/assets/3e5ecde6-b994-4c28-8059-f103a814f18f" width="100%" alt="Screen 5" />
+    </td>
+    <td align="center" width="25%">
+      <img src="https://github.com/user-attachments/assets/81f6850a-1beb-4f38-a18f-73fe0b25a3c4" width="100%" alt="Screen 6" />
+    </td>
+    <td align="center" width="25%">
+      <img src="https://github.com/user-attachments/assets/78df1742-0de3-4716-9f5c-00dded074243" width="100%" alt="Screen 7" />
+    </td>
+    <td align="center" width="25%">
+      <img src="https://github.com/user-attachments/assets/d1de4c33-2ed4-4145-adc7-beea2d65dcb0" width="100%" alt="Screen 8" />
+    </td>
+  </tr>
+</table>
 
 ---
 
