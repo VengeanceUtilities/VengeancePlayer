@@ -3,7 +3,8 @@
 <p align="center">
   <img src="https://github.com/VengeanceUtilities.png" alt="Vengeance Player Logo" width="120" style="border-radius: 50%;">
 </p>
-⚡ Vengeance Player
+
+# ⚡ Vengeance Player
 
 **The Ultimate All-in-One Hybrid Music Experience for Android**
 
@@ -29,6 +30,22 @@
 
 ---
 
+## 📸 Screenshots
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/8a77aa8e-00a1-4c54-8741-e87f230f7d55" width="220" alt="Vengeance Player Screen 1" />
+  <img src="https://github.com/user-attachments/assets/fc5cc147-5e3e-4fd0-bfed-466740ee476e" width="220" alt="Vengeance Player Screen 2" />
+  <img src="https://github.com/user-attachments/assets/20f79629-86f3-45e8-b77a-162159eb2911" width="220" alt="Vengeance Player Screen 3" />
+  <img src="https://github.com/user-attachments/assets/ca791b16-dd41-45b0-9b23-82eb407a0d37" width="220" alt="Vengeance Player Screen 4" />
+</p>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/3e5ecde6-b994-4c28-8059-f103a814f18f" width="220" alt="Vengeance Player Screen 5" />
+  <img src="https://github.com/user-attachments/assets/81f6850a-1beb-4f38-a18f-73fe0b25a3c4" width="220" alt="Vengeance Player Screen 6" />
+  <img src="https://github.com/user-attachments/assets/78df1742-0de3-4716-9f5c-00dded074243" width="220" alt="Vengeance Player Screen 7" />
+</p>
+
+---
+
 ## ✨ Features
 
 - 🎧 **Hybrid Architecture:** Stream seamlessly across YouTube Music and Spotify catalogs under one consolidated interface.
@@ -46,6 +63,7 @@
 2. Download the latest `Vengeance_Player_Beta.apk`.
 3. If prompted by Android, allow installation from unknown sources.
 4. Open the APK and install.
+
 ---
 
 ## 🛠️ Tech Stack & Architecture
@@ -70,5 +88,4 @@ Vengeance Player builds upon the incredible work of the open-source community:
 
 Distributed under the **GNU General Public License v3.0** (GPL-3.0). See [LICENSE](LICENSE) for more details.
 
-
-Note this is still a BETA so if you have any issues with it dm me on Discord iVrx
+> **Note:** This is still a BETA. If you encounter any issues, feel free to DM me on Discord: `iVrx`.
