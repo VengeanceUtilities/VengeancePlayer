@@ -8,7 +8,7 @@
 
 **The Ultimate All-in-One Hybrid Music Experience for Android**
 
-[![Version](https://img.shields.io/badge/VERSION-2.2-purple?style=for-the-badge)](https://github.com/VengeanceUtilities/VengeancePlayer/releases/latest)
+[![Version](https://img.shields.io/badge/VERSION-2.3-purple?style=for-the-badge)](https://github.com/VengeanceUtilities/VengeancePlayer/releases/latest)
 [![Platform](https://img.shields.io/badge/PLATFORM-ANDROID-brightgreen?style=for-the-badge&logo=android)](https://github.com/VengeanceUtilities/VengeancePlayer/releases)
 [![Website](https://img.shields.io/badge/WEBSITE-vengeanceutilities.de-blue?style=for-the-badge)](https://vengeanceutilities.de)
 [![Instagram](https://img.shields.io/badge/INSTAGRAM-@GODLYECHELON-E4405F?style=for-the-badge&logo=instagram)](https://instagram.com/godlyechelon)
@@ -79,7 +79,7 @@
 ## 📥 Installation
 
 1. Go to the [Releases](https://github.com/VengeanceUtilities/VengeancePlayer/releases/latest) section.
-2. Download the latest `Vengeance_Player_2.2.apk`.
+2. Download the latest `Vengeance_Player_2.3.apk`.
 3. If prompted by Android, allow installation from unknown sources.
 4. Open the APK and install.
 
