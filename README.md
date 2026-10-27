@@ -16,7 +16,7 @@
 
 <br/>
 
-<a href="https://github.com/UpperEchelon-VengeanceUtilities/VengeancePlayer/releases/latest">
+<a href="(https://github.com/VengeanceUtilities/VengeancePlayer/releases/tag/3.0)">
   <img src="https://img.shields.io/badge/Download-Latest%20APK-blue?style=for-the-badge&logo=android&logoColor=white" height="42" alt="Download APK" />
 </a>
 
