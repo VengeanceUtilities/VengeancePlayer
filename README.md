@@ -16,7 +16,7 @@
 
 <br/>
 
-<a href=https://github.com/VengeanceUtilities/VengeancePlayer/releases/download/3.0/Vengeance.Player.3.2.apk>
+<a href="https://github.com/VengeanceUtilities/VengeancePlayer/releases/latest">
   <img src="https://img.shields.io/badge/Download-Latest%20APK-blue?style=for-the-badge&logo=android&logoColor=white" height="42" alt="Download APK" />
 </a>
 
@@ -35,24 +35,24 @@
 <table>
   <tr>
     <td align="center" width="33.33%">
-      <img src="https://github.com/user-attachments/assets/2b11cf63-73e7-489e-8fcc-0fb04c9961e6" width="100%" alt="Vengeance Player Screen 1" />
+      <img src="https://github.com/user-attachments/assets/ebf5ecb0-1d8c-418e-b093-2dfd72d2b4db" width="100%" alt="Vengeance Player - Home Screen" />
     </td>
     <td align="center" width="33.33%">
-      <img src="https://github.com/user-attachments/assets/23eee3a7-df69-4976-b894-aef1d6b60513" width="100%" alt="Vengeance Player Screen 2" />
+      <img src="https://github.com/user-attachments/assets/f3422925-106f-48c0-85bf-87b4e1b85067" width="100%" alt="Vengeance Player - Search" />
     </td>
     <td align="center" width="33.33%">
-      <img src="https://github.com/user-attachments/assets/0d95f6c2-799a-4cf4-aed7-ab6dbb41516c" width="100%" alt="Vengeance Player Screen 3" />
+      <img src="https://github.com/user-attachments/assets/cbc64ca5-a10a-4755-ab94-9257c5e19c11" width="100%" alt="Vengeance Player - Library" />
     </td>
   </tr>
   <tr>
     <td align="center" width="33.33%">
-      <img src="https://github.com/user-attachments/assets/ef396928-d5e0-4666-b9ad-a724dd6b49fe" width="100%" alt="Vengeance Player Screen 4" />
+      <img src="https://github.com/user-attachments/assets/dc1006c5-355f-4c81-b19e-bb0fe75562de" width="100%" alt="Vengeance Player - Now Playing" />
     </td>
     <td align="center" width="33.33%">
-      <img src="https://github.com/user-attachments/assets/40549509-8da3-435e-a534-87fdc6030863" width="100%" alt="Vengeance Player Screen 5" />
+      <img src="https://github.com/user-attachments/assets/8c3de382-f4d6-47ec-85ec-f90e54afbc7d" width="100%" alt="Vengeance Player - Stats & Listening Insights" />
     </td>
     <td align="center" width="33.33%">
-      <img src="https://github.com/user-attachments/assets/a0c661eb-2579-42a4-9c4a-c5f5aeeae626" width="100%" alt="Vengeance Player Screen 6" />
+      <img src="https://github.com/user-attachments/assets/49beabe6-9599-4b93-812e-4ba7d791635d" width="100%" alt="Vengeance Player - Appearance Settings" />
     </td>
   </tr>
 </table>
@@ -65,7 +65,7 @@
 - 🚗 **Android Auto Support:** Full in-car dashboard integration for safe, distraction-free playback control and navigation on the road.
 - 🎚️ **Enhanced Hi-Fi Audio:** Upgraded DSP sound engine, lossless stream extraction, native EQ support, and dynamic volume normalization for audiophile-grade playback.
 - 🎨 **Glassmorphism & Custom Theming:** Sleek modern **Glass Theme** with translucent blur effects alongside dynamic Material You color matching.
-- 🖼️ **Custom Backgrounds:** Personalize the player with custom image backgrounds, album art blurs, and gradient presets.
+- 🌌 **Dynamic Shader Backgrounds:** Choose between Pure OLED Black, Starfield Space, Cyberpunk Neon, Aurora Borealis, or custom wallpapers.
 - 🚫 **Completely Ad-Free:** Uninterrupted listening with seamless background playback and unlimited skips.
 - 💾 **Offline Caching & Downloads:** Save tracks, full albums, and custom playlists directly to local storage for offline playback.
 - 🔄 **Built-in Auto-Updater:** Direct integration with GitHub Releases to check and update the app directly in-app.
@@ -75,7 +75,7 @@
 ## 📥 Installation
 
 1. Go to the [Releases](https://github.com/VengeanceUtilities/VengeancePlayer/releases/latest) section.
-2. Download the latest `Vengeance_Player.apk`.
+2. Download the latest `Vengeance.Player.3.2.apk`.
 3. If prompted by Android, allow installation from unknown sources.
 4. Open the APK and complete the install.
 
@@ -84,7 +84,7 @@
 ## 🛠️ Tech Stack & Architecture
 
 - **Language:** Kotlin
-- **UI Toolkit:** Jetpack Compose, Material 3 & Custom Blur / Glassmorphism Shaders
+- **UI Toolkit:** Jetpack Compose, Material 3 & Custom Blur / Glassmorphism Shaders (Haze)
 - **Audio Pipeline:** AndroidX Media3 / ExoPlayer (Hi-Res Audio Engine)
 - **Integration:** Android Auto (MediaBrowserService & MediaSession)
 - **Networking:** Ktor / OkHttp
@@ -95,8 +95,8 @@
 ## 📜 Credits & Acknowledgments
 
 Vengeance Player builds upon the incredible work of the open-source community:
-- **InnerTune** by [z-huang]
-- **ArchiveTune** by [rukamori]
+- **InnerTune** by [z-huang](https://github.com/z-huang/InnerTune)
+- **ArchiveTune** by [rukamori](https://github.com/rukamori/ArchiveTune)
 
 ---
 
@@ -104,6 +104,4 @@ Vengeance Player builds upon the incredible work of the open-source community:
 
 Distributed under the **GNU General Public License v3.0** (GPL-3.0). See [LICENSE](LICENSE) for more details.
 
-> **Note:** This is still a getting update almost Daily behind the Scenes If you encounter any issues, feel free to DM me on Discord: `iVrx`.
-
-```
+> **Note:** Vengeance Player is actively developed and updated almost daily behind the scenes. If you encounter any bugs or have feature ideas, feel free to DM me on Discord: `iVrx`.
