@@ -8,7 +8,7 @@
 
 **The Ultimate All-in-One Hybrid Music Experience for Android**
 
-[![Version](https://img.shields.io/badge/VERSION-3.0-purple?style=for-the-badge)](https://github.com/VengeanceUtilities/VengeancePlayer/releases/latest)
+[![Version](https://img.shields.io/badge/VERSION-3.2-purple?style=for-the-badge)](https://github.com/VengeanceUtilities/VengeancePlayer/releases/latest)
 [![Platform](https://img.shields.io/badge/PLATFORM-ANDROID-brightgreen?style=for-the-badge&logo=android)](https://github.com/VengeanceUtilities/VengeancePlayer/releases)
 [![Website](https://img.shields.io/badge/WEBSITE-vengeanceutilities.de-blue?style=for-the-badge)](https://vengeanceutilities.de)
 [![Instagram](https://img.shields.io/badge/INSTAGRAM-@GODLYECHELON-E4405F?style=for-the-badge&logo=instagram)](https://instagram.com/godlyechelon)
@@ -16,7 +16,7 @@
 
 <br/>
 
-<a href=https://github.com/VengeanceUtilities/VengeancePlayer/releases/download/3.0/Vengeance.Player.3.0.apk>
+<a href=https://github.com/VengeanceUtilities/VengeancePlayer/releases/download/3.0/Vengeance.Player.3.2.apk>
   <img src="https://img.shields.io/badge/Download-Latest%20APK-blue?style=for-the-badge&logo=android&logoColor=white" height="42" alt="Download APK" />
 </a>
 
