@@ -35,24 +35,24 @@
 <table>
   <tr>
     <td align="center" width="33.33%">
-      <img src="https://github.com/user-attachments/assets/ebf5ecb0-1d8c-418e-b093-2dfd72d2b4db" width="100%" alt="Vengeance Player - Home Screen" />
+      <img src="https://github.com/user-attachments/assets/2dc2a2a6-dddf-47e3-8491-d0c676aa9691" width="100%" alt="Vengeance Player - Home Screen" />
     </td>
     <td align="center" width="33.33%">
-      <img src="https://github.com/user-attachments/assets/f3422925-106f-48c0-85bf-87b4e1b85067" width="100%" alt="Vengeance Player - Search" />
+      <img src="https://github.com/user-attachments/assets/85d55559-d52e-4df5-b14a-6eac6477fd7e" width="100%" alt="Vengeance Player - Search & Explore" />
     </td>
     <td align="center" width="33.33%">
-      <img src="https://github.com/user-attachments/assets/cbc64ca5-a10a-4755-ab94-9257c5e19c11" width="100%" alt="Vengeance Player - Library" />
+      <img src="https://github.com/user-attachments/assets/790d6a1b-d9df-4ae0-86e5-1f5cee288c67" width="100%" alt="Vengeance Player - Spotify Playlists in Library" />
     </td>
   </tr>
   <tr>
     <td align="center" width="33.33%">
-      <img src="https://github.com/user-attachments/assets/dc1006c5-355f-4c81-b19e-bb0fe75562de" width="100%" alt="Vengeance Player - Now Playing" />
+      <img src="https://github.com/user-attachments/assets/0538b078-eb56-4a60-b6b7-ba025cfe7609" width="100%" alt="Vengeance Player - Now Playing" />
     </td>
     <td align="center" width="33.33%">
-      <img src="https://github.com/user-attachments/assets/8c3de382-f4d6-47ec-85ec-f90e54afbc7d" width="100%" alt="Vengeance Player - Stats & Listening Insights" />
+      <img src="https://github.com/user-attachments/assets/e5bf0eb6-f82e-4a99-ac88-665febcc06c2" width="100%" alt="Vengeance Player - Liked Songs Playlist" />
     </td>
     <td align="center" width="33.33%">
-      <img src="https://github.com/user-attachments/assets/49beabe6-9599-4b93-812e-4ba7d791635d" width="100%" alt="Vengeance Player - Appearance Settings" />
+      <img src="https://github.com/user-attachments/assets/83b95945-8ed5-4add-aff6-f5c77317ed49" width="100%" alt="Vengeance Player - In-App Updater" />
     </td>
   </tr>
 </table>
