@@ -6,7 +6,7 @@
 
 # ⚡ Vengeance Player
 
-**The Ultimate All-in-One Hybrid Music Experience for Android**
+**Hybrid Music Streaming & Custom DSP Audio Engine for Android**
 
 [![Version](https://img.shields.io/badge/VERSION-5.0-purple?style=for-the-badge)](https://github.com/VengeanceUtilities/VengeancePlayer/releases/latest)
 [![Platform](https://img.shields.io/badge/PLATFORM-ANDROID-brightgreen?style=for-the-badge&logo=android)](https://github.com/VengeanceUtilities/VengeancePlayer/releases)
@@ -24,13 +24,13 @@
 
 ---
 
-## 🌟 Overview
+## Overview
 
-**Vengeance Player** delivers the best of both worlds: a seamless hybrid platform merging **YouTube Music** and **Spotify** into a single, high-performance Android experience. Enjoy your favorite tracks completely ad-free, with studio-grade audio fidelity, full offline support, and deep customization.
+**Vengeance Player** brings **YouTube Music** and **Spotify** together in a single, ad-free Android client. Built from the ground up with Jetpack Compose and Media3, version **5.0** introduces a custom 10-band DSP audio pipeline, frequency-aware DJ crossfading, live audio/video switching, and a 120Hz refractive glass UI driven by AGSL shaders.
 
 ---
 
-## 📸 Screenshots
+## Screenshots
 
 <table>
   <tr>
@@ -59,51 +59,59 @@
 
 ---
 
-## ✨ Features
+## What's Inside v5.0
 
-- 🎧 **Hybrid Architecture:** Stream seamlessly across YouTube Music and Spotify catalogs under one unified, blazing-fast interface.
-- 🚗 **Android Auto Support:** Full in-car dashboard integration for safe, distraction-free playback control and navigation on the road.
-- 🎚️ **Enhanced Hi-Fi Audio:** Upgraded DSP sound engine, lossless stream extraction, native EQ support, and dynamic volume normalization for audiophile-grade playback.
-- 🎨 **Glassmorphism & Custom Theming:** Sleek modern **Glass Theme** with translucent blur effects alongside dynamic Material You color matching.
-- 🌌 **Dynamic Shader Backgrounds:** Choose between Pure OLED Black, Starfield Space, Cyberpunk Neon, Aurora Borealis, or custom wallpapers.
-- 🚫 **Completely Ad-Free:** Uninterrupted listening with seamless background playback and unlimited skips.
-- 💾 **Offline Caching & Downloads:** Save tracks, full albums, and custom playlists directly to local storage for offline playback.
-- 🔄 **Built-in Auto-Updater:** Direct integration with GitHub Releases to check and update the app directly in-app.
+### Hybrid Playback & Smart Switching
+* **Unified Catalog:** Browse, search, and queue tracks across YouTube Music and Spotify inside one library.
+* **Auto-Fallback Resolver:** If a stream fails or hits a regional block on one platform, Vengeance automatically resolves and plays the matching track from the other source without interrupting playback.
+* **Instant Audio / Video Toggle:** Switch between cover art and the music video mid-track without losing your current timestamp.
+* **Ad-Free & Offline Ready:** Uninterrupted background playback, unlimited skips, and local caching/downloads for tracks, albums, and playlists.
 
----
+### Custom DSP & Audio Pipeline
+* **10-Band Equalizer & Limiter:** Powered by Android's `DynamicsProcessing` API (with automatic fallback for older devices) and a built-in `-2 dB` limiter to prevent clipping.
+* **Sub-Bass Punch & Vocal Reducer:** Dedicated low-end boost for bass-heavy tracks alongside a mid-range notch filter ("Sing Mode") that ducks vocals on the fly.
+* **EQ-Automix Crossfade:** Configurable track transitions (up to 12s) that dynamically attenuate low-end frequencies during the overlap so basslines don't clash.
+* **Smart Sleep Timer:** Smooth volume fade-out or automatic stop at the end of the current track.
 
-## 📥 Installation
-
-1. Go to the [Releases](https://github.com/VengeanceUtilities/VengeancePlayer/releases/latest) section.
-2. Download the latest `Vengeance.Player.5.0.apk`.
-3. If prompted by Android, allow installation from unknown sources.
-4. Open the APK and complete the install.
-
----
-
-## 🛠️ Tech Stack & Architecture
-
-- **Language:** Kotlin
-- **UI Toolkit:** Jetpack Compose, Material 3 & Custom Blur / Glassmorphism Shaders (Haze)
-- **Audio Pipeline:** AndroidX Media3 / ExoPlayer (Hi-Res Audio Engine)
-- **Integration:** Android Auto (MediaBrowserService & MediaSession)
-- **Networking:** Ktor / OkHttp
-- **Database:** Room Persistence Library
+### Refractive Glass UI & Motion
+* **120Hz Reactive Cover Stage:** Gyroscope-driven 3D tilt, real-time bass aura via AGSL `RuntimeShader`, specular glass borders, and gesture controls (swipe to skip, double-tap edges to seek ±10s).
+* **Dual-Anchor Color Engine:** Extracts deep AMOLED-safe ambient tones and high-contrast vibrant accents from every album cover.
+* **Kinetic Lyrics & Story Cards:** Word-by-word synced lyrics with tap-to-seek, plus a built-in 9:16 glassmorphism share-card generator for Instagram Stories.
+* **Android Auto & In-App Updater:** Full head-unit integration for driving and direct APK update checks via GitHub Releases.
 
 ---
 
-## 📜 Credits & Acknowledgments
+## Installation
 
-Vengeance Player builds upon the incredible work of the open-source community:
-- **InnerTune** by [z-huang]
-- **ArchiveTune** by [rukamori]
+1. Open the [Latest Release](https://github.com/VengeanceUtilities/VengeancePlayer/releases/latest) page.
+2. Download `Vengeance.Player.5.0.apk`.
+3. Allow installation from unknown sources if prompted by Android.
+4. Install and launch the app.
 
 ---
 
-## ⚖️ License
+## Tech Stack
 
-Distributed under the **GNU General Public License v3.0** (GPL-3.0). See [LICENSE] for more details.
+* **Language:** Kotlin & Coroutines / Flow
+* **UI & Graphics:** Jetpack Compose, Material 3 Expressive, AGSL `RuntimeShader`, Haze Blur, Coil 3
+* **Audio & Playback:** AndroidX Media3 / ExoPlayer, `DynamicsProcessing` DSP Engine, `Visualizer` FFT/Bass Tracking
+* **Car Integration:** Android Auto (`MediaBrowserService` & `MediaSession`)
+* **Networking & Storage:** Ktor, OkHttp, Room Database
 
-> **Note:** Vengeance Player is actively developed and updated almost daily behind the scenes. If you encounter any bugs or have feature ideas, feel free to join our community or DM me on Discord:
+---
+
+## Credits
+
+Vengeance Player builds upon open-source foundations from:
+* **InnerTune** by [z-huang](https://github.com/z-huang/InnerTune)
+* **ArchiveTune** by [rukamori](https://github.com/rukamori/ArchiveTune)
+
+---
+
+## License
+
+Distributed under the **GNU General Public License v3.0 (GPL-3.0)**. See the `LICENSE` file in this repository for details.
+
+> Actively maintained and updated regularly. Found a bug or have a feature idea? Reach out on Discord or Instagram:
 >
-> [![Discord](https://shields.io)](https://discord.gg/GCU3SU5fKH)
+> [![Discord](https://img.shields.io/badge/Discord-Join%20Server-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/GCU3SU5fKH)
