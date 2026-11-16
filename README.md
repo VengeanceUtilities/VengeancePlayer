@@ -104,4 +104,6 @@ Vengeance Player builds upon the incredible work of the open-source community:
 
 Distributed under the **GNU General Public License v3.0** (GPL-3.0). See [LICENSE] for more details.
 
-> **Note:** Vengeance Player is actively developed and updated almost daily behind the scenes. If you encounter any bugs or have feature ideas, feel free to DM me on Discord: `iVrx`.
+> **Note:** Vengeance Player is actively developed and updated almost daily behind the scenes. If you encounter any bugs or have feature ideas, feel free to join our community or DM me on Discord:
+>
+> [![Discord](https://shields.io)](https://discord.gg/GCU3SU5fKH)
