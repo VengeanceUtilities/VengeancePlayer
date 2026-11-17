@@ -8,7 +8,7 @@
 
 **Hybrid Music Streaming & Custom DSP Audio Engine for Android**
 
-[![Version](https://img.shields.io/badge/VERSION-5.0-purple?style=for-the-badge)](https://github.com/VengeanceUtilities/VengeancePlayer/releases/latest)
+[![Version](https://img.shields.io/badge/VERSION-5.1-purple?style=for-the-badge)](https://github.com/VengeanceUtilities/VengeancePlayer/releases/latest)
 [![Platform](https://img.shields.io/badge/PLATFORM-ANDROID-brightgreen?style=for-the-badge&logo=android)](https://github.com/VengeanceUtilities/VengeancePlayer/releases)
 [![Website](https://img.shields.io/badge/WEBSITE-vengeanceutilities.de-blue?style=for-the-badge)](https://vengeanceutilities.de)
 [![Instagram](https://img.shields.io/badge/INSTAGRAM-@GODLYECHELON-E4405F?style=for-the-badge&logo=instagram)](https://instagram.com/godlyechelon)
@@ -84,7 +84,7 @@
 ## Installation
 
 1. Open the [Latest Release](https://github.com/VengeanceUtilities/VengeancePlayer/releases/latest) page.
-2. Download `Vengeance.Player.5.0.apk`.
+2. Download `Vengeance.Player.5.1.apk`.
 3. Allow installation from unknown sources if prompted by Android.
 4. Install and launch the app.
 
